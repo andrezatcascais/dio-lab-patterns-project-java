@@ -18,7 +18,7 @@ The Singleton pattern ensures a class has only one instance and provides a globa
 ### Application (When is it truly a necessity?) (doing)
 Practical implementation in a real-world product or project that will evolve into a market-ready solution for the company.
 
-
+###
 
 ## Strategy
 

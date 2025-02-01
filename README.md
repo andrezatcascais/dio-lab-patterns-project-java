@@ -13,16 +13,29 @@ The Singleton pattern ensures a class has only one instance and provides a globa
 ![img.png](assets/img.png)
 #### [Example about the Singleton Pattern](./src/main/java/one/digitalinnovation/gof/singleton)
 
+## Summary: What did I learn about the Singleton Pattern? (doing)
+
+### Application (When is it truly a necessity?) (doing)
+Practical implementation in a real-world product or project that will evolve into a market-ready solution for the company.
+
+
+
 ## Strategy
 
 The Strategy pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable.
 
 - **Intent**: To define a family of algorithms, encapsulate each one, and make them interchangeable.
-- **Use Case**: When you want to define a class that will have one behavior that is similar to other behaviors in a list.
+- **Use Case**: When you want to define a class that will have one behavior that is similar to other behaviours in a list.
 
 ### [Structure](https://sourcemaking.com/design_patterns/strategy)
 ![img_1.png](assets/img_1.png)
 #### [Example about the Strategy Pattern](./src/main/java/one/digitalinnovation/gof/strategy)
+
+## Summary: What did I learn about the Strategy Pattern? (doing)
+
+### Application (When is it truly a necessity?) (doing)
+Practical implementation in a real-world product or project that will evolve into a market-ready solution for the company.
+
 
 ## Facade
 
@@ -34,3 +47,8 @@ The Facade pattern provides a simplified interface to a complex subsystem.
 ### [Structure](https://sourcemaking.com/design_patterns/facade)
 ![img_2.png](assets/img_2.png)
 #### [Example about the Facade Pattern](./src/main/java/one/digitalinnovation/gof/facade)
+
+## Summary: What did I learn about the Facade Pattern? (doing)
+
+### Application (When is it truly a necessity?) (doing)
+Practical implementation in a real-world product or project that will evolve into a market-ready solution for the company.
